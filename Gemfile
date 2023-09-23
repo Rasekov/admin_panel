@@ -72,3 +72,4 @@ group :test do
 end
 gem 'webpacker'
 gem 'bootstrap', '~> 5.0.0'
+gem 'jquery-rails'
